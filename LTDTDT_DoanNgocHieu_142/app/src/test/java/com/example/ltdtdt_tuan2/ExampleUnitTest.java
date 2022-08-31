@@ -1,4 +1,4 @@
-package com.example.ltdtdt_doanngochieu_142;
+package com.example.ltdtdt_tuan2;
 
 import org.junit.Test;
 

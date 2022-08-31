@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.ltdtdt_doanngochieu_142"
+        applicationId "com.example.ltdtdt_tuan2"
         minSdk 21
         targetSdk 32
         versionCode 1
@@ -30,7 +30,6 @@ android {
 dependencies {
 
     implementation 'androidx.appcompat:appcompat:1.5.0'
-    implementation 'de.hdodenhof:circleimageview:3.0.0'
     implementation 'com.google.android.material:material:1.6.1'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
     testImplementation 'junit:junit:4.13.2'
